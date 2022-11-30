@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bob-greg/y-rush/static/css/main.ce23b7e8.css",
+    "main.js": "/bob-greg/y-rush/static/js/main.c9db0fd1.js",
+    "static/js/787.fb86b1f2.chunk.js": "/bob-greg/y-rush/static/js/787.fb86b1f2.chunk.js",
+    "static/media/alarm-clock.svg": "/bob-greg/y-rush/static/media/alarm-clock.a1c107701970b82494ef816d7685988d.svg",
+    "index.html": "/bob-greg/y-rush/index.html",
+    "main.ce23b7e8.css.map": "/bob-greg/y-rush/static/css/main.ce23b7e8.css.map",
+    "main.c9db0fd1.js.map": "/bob-greg/y-rush/static/js/main.c9db0fd1.js.map",
+    "787.fb86b1f2.chunk.js.map": "/bob-greg/y-rush/static/js/787.fb86b1f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce23b7e8.css",
+    "static/js/main.c9db0fd1.js"
+  ]
+}
