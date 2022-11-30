@@ -1,7 +1,7 @@
 {
   "name": "y-rush",
   "version": "0.1.0",
-  "homepage": "https://www.github.com/bob-greg/y-rush",
+  "homepage": "https://bob-greg.github.com/y-rush",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
