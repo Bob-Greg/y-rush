@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/y-rush/static/css/main.3ca47770.css",
-    "main.js": "/y-rush/static/js/main.d5a9934b.js",
+    "main.js": "/y-rush/static/js/main.5a23468b.js",
     "static/media/alarm-clock-foreground.svg": "/y-rush/static/media/alarm-clock-foreground.3305f3b4b1af1c2931ba949a4006e712.svg",
     "index.html": "/y-rush/index.html",
     "main.3ca47770.css.map": "/y-rush/static/css/main.3ca47770.css.map",
-    "main.d5a9934b.js.map": "/y-rush/static/js/main.d5a9934b.js.map"
+    "main.5a23468b.js.map": "/y-rush/static/js/main.5a23468b.js.map"
   },
   "entrypoints": [
     "static/css/main.3ca47770.css",
-    "static/js/main.d5a9934b.js"
+    "static/js/main.5a23468b.js"
   ]
 }
