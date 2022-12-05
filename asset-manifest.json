@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/y-rush/static/css/main.ce23b7e8.css",
-    "main.js": "/y-rush/static/js/main.1d43e695.js",
-    "static/js/787.fb86b1f2.chunk.js": "/y-rush/static/js/787.fb86b1f2.chunk.js",
-    "static/media/alarm-clock.svg": "/y-rush/static/media/alarm-clock.a1c107701970b82494ef816d7685988d.svg",
+    "main.css": "/y-rush/static/css/main.3ca47770.css",
+    "main.js": "/y-rush/static/js/main.d5a9934b.js",
+    "static/media/alarm-clock-foreground.svg": "/y-rush/static/media/alarm-clock-foreground.3305f3b4b1af1c2931ba949a4006e712.svg",
     "index.html": "/y-rush/index.html",
-    "main.ce23b7e8.css.map": "/y-rush/static/css/main.ce23b7e8.css.map",
-    "main.1d43e695.js.map": "/y-rush/static/js/main.1d43e695.js.map",
-    "787.fb86b1f2.chunk.js.map": "/y-rush/static/js/787.fb86b1f2.chunk.js.map"
+    "main.3ca47770.css.map": "/y-rush/static/css/main.3ca47770.css.map",
+    "main.d5a9934b.js.map": "/y-rush/static/js/main.d5a9934b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce23b7e8.css",
-    "static/js/main.1d43e695.js"
+    "static/css/main.3ca47770.css",
+    "static/js/main.d5a9934b.js"
   ]
 }
